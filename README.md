@@ -10,7 +10,7 @@ yarn add spa-simple-skeleton
 npm install spa-simple-skeleton
 ```
 
-Configure in `.umirc.js`,
+Configure in `webpack.config.js`,
 
 ```js
 const spasimpleskeleton = require('spa-simple-skeleton');
